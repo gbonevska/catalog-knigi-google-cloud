@@ -1,0 +1,5 @@
+google cloud 
+
+db instance name - biblio
+sql user - 'root'@'%'
+pass - 211300
